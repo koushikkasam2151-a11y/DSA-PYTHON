@@ -1,4 +1,4 @@
-# File: sorting/25_bubble_sort.py
+# File: sorting/bubble_sort.py
 # Problem: Bubble Sort Implementation
 # Strategy: Compare adjacent elements and swap if wrong order. O(n^2) time.
 
